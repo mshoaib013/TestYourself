@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.CountDownTimer;
 import android.speech.tts.TextToSpeech;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -161,6 +162,7 @@ public class Test extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
+        hide();
 
 
 
@@ -191,77 +193,132 @@ public class Test extends AppCompatActivity {
         nextQuestionSetButton=(Button) findViewById(R.id.goForNextSet);
 
 
+        final DatabaseReference mDatabase;
+        final String TAG = "TAG";
+        mDatabase = FirebaseDatabase.getInstance().getReference().child("c").child("s").child("tn2");
+
+
+
+        mDatabase.addValueEventListener(new ValueEventListener() {
+            int i=0;
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                for(DataSnapshot dataSnapshot1: dataSnapshot.getChildren()){
+                    Question question = dataSnapshot1.getValue(Question.class);
+                    String questionn = question.getQ().toString();
+                    String questionHistory = question.getQh().toString();
+                    String choice1 = question.getA().toString();
+                    String choice2 = question.getB().toString();
+                    String choice3 = question.getC().toString();
+                    String choice4 = question.getD().toString();
+                    String answer = question.getAn().toString();
+                    que[i][0] = questionn;
+                    que[i][1] = choice1;
+                    que[i][2] = choice2;
+                    que[i][3] = choice3;
+                    que[i][4] = choice4;
+
+                    if (answer.equals("a")){
+                        que[i][5] = "1";
+                    }
+                    else if (answer.equals("b")){
+                        que[i][5] = "2";
+                    }
+                    else if (answer.equals("c")){
+                        que[i][5] = "3";
+                    }
+                    else{
+                        que[i][5] = "4";
+                    }
+                    i++;
+
+                    Log.d(TAG, "length xx"+String.valueOf(i));
+                    Log.d(TAG, "question xx"+questionn);
+                    Log.d(TAG, "question History: xx "+questionHistory);
+                    Log.d(TAG, "Choice1: xx "+choice1);
+                    Log.d(TAG, "Choice2: xx "+choice2);
+                    Log.d(TAG, "Choice3: xx "+choice3);
+                    Log.d(TAG, "Choice4: xx "+choice4);
+                    Log.d(TAG, "answer: xx "+answer);
+                }
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+
+            }
+        });
 
         //question declear
-        que[0][0]="Whats Your name??";
-        que[0][1]="Shoab";
-        que[0][2]="Mehedi";
-        que[0][3]="WTF!!!!";
-        que[0][4]="I";
-        que[0][5]="1";
-
-        que[1][0]="Your NSU CGPA??";
-        que[1][1]="4.00";
-        que[1][2]="3.00";
-        que[1][3]="Less than 2";
-        que[1][4]="Between 2 & 3";
-        que[1][5]="4";
-
-        que[2][0]="Fav category";
-        que[2][1]="w";
-        que[2][2]="e";
-        que[2][3]="r";
-        que[2][4]="t";
-        que[2][5]="3";
-
-        que[3][0]="worst teacher of ECE";
-        que[3][1]="SaM";
-        que[3][2]="Mle";
-        que[3][3]="SvA";
-        que[3][4]="All";
-        que[3][5]="4";
-
-        que[4][0]="Greatest musicians of BD";
-        que[4][1]="Mahafujur Rahman";
-        que[4][2]="Tahasan";
-        que[4][3]="Ali G STAR";
-        que[4][4]="None of them";
-        que[4][5]="2";
-
-        que[5][0]="Whats Your name??";
-        que[5][1]="Shoab";
-        que[5][2]="Mehedi";
-        que[5][3]="WTF!!!!";
-        que[5][4]="I";
-        que[5][5]="1";
-
-        que[6][0]="Your NSU CGPA??";
-        que[6][1]="4.00";
-        que[6][2]="3.00";
-        que[6][3]="Less than 2";
-        que[6][4]="Between 2 & 3";
-        que[6][5]="4";
-
-        que[7][0]="Fav  category";
-        que[7][1]="ab";
-        que[7][2]="a";
-        que[7][3]="s";
-        que[7][4]="d";
-        que[7][5]="3";
-
-        que[8][0]="worst teacher of ECE";
-        que[8][1]="SaM";
-        que[8][2]="Mle";
-        que[8][3]="SvA";
-        que[8][4]="All";
-        que[8][5]="4";
-
-        que[9][0]="Greatest musicians of BD";
-        que[9][1]="Mahafujur Rahman";
-        que[9][2]="Tahasan";
-        que[9][3]="Ali G STAR";
-        que[9][4]="None of them";
-        que[9][5]="2";
+//        que[0][0]="Whats Your name??";
+//        que[0][1]="Shoab";
+//        que[0][2]="Mehedi";
+//        que[0][3]="WTF!!!!";
+//        que[0][4]="I";
+//        que[0][5]="1";
+//
+//        que[1][0]="Your NSU CGPA??";
+//        que[1][1]="4.00";
+//        que[1][2]="3.00";
+//        que[1][3]="Less than 2";
+//        que[1][4]="Between 2 & 3";
+//        que[1][5]="4";
+//
+//        que[2][0]="Fav category";
+//        que[2][1]="w";
+//        que[2][2]="e";
+//        que[2][3]="r";
+//        que[2][4]="t";
+//        que[2][5]="3";
+//
+//        que[3][0]="worst teacher of ECE";
+//        que[3][1]="SaM";
+//        que[3][2]="Mle";
+//        que[3][3]="SvA";
+//        que[3][4]="All";
+//        que[3][5]="4";
+//
+//        que[4][0]="Greatest musicians of BD";
+//        que[4][1]="Mahafujur Rahman";
+//        que[4][2]="Tahasan";
+//        que[4][3]="Ali G STAR";
+//        que[4][4]="None of them";
+//        que[4][5]="2";
+//
+//        que[5][0]="Whats Your name??";
+//        que[5][1]="Shoab";
+//        que[5][2]="Mehedi";
+//        que[5][3]="WTF!!!!";
+//        que[5][4]="I";
+//        que[5][5]="1";
+//
+//        que[6][0]="Your NSU CGPA??";
+//        que[6][1]="4.00";
+//        que[6][2]="3.00";
+//        que[6][3]="Less than 2";
+//        que[6][4]="Between 2 & 3";
+//        que[6][5]="4";
+//
+//        que[7][0]="Fav  category";
+//        que[7][1]="ab";
+//        que[7][2]="a";
+//        que[7][3]="s";
+//        que[7][4]="d";
+//        que[7][5]="3";
+//
+//        que[8][0]="worst teacher of ECE";
+//        que[8][1]="SaM";
+//        que[8][2]="Mle";
+//        que[8][3]="SvA";
+//        que[8][4]="All";
+//        que[8][5]="4";
+//
+//        que[9][0]="Greatest musicians of BD";
+//        que[9][1]="Mahafujur Rahman";
+//        que[9][2]="Tahasan";
+//        que[9][3]="Ali G STAR";
+//        que[9][4]="None of them";
+//        que[9][5]="2";
 
 
 
@@ -282,7 +339,7 @@ public class Test extends AppCompatActivity {
                 c2.setBackgroundColor(Color.WHITE);
                 c3.setBackgroundColor(Color.WHITE);
                 c4.setBackgroundColor(Color.WHITE);*/
-                if(questionNo>9)
+                if(questionNo>4)
                 {
                     bg.setVisibility(LinearLayout.INVISIBLE);
                     //scoreview.setVisibility(TextView.INVISIBLE);
@@ -481,40 +538,12 @@ public class Test extends AppCompatActivity {
 
             }
         });
-
-
-
-        final DatabaseReference mDatabase;
-        final String TAG = "TAG";
-        mDatabase = FirebaseDatabase.getInstance().getReference().child("c").child("s").child("tn");
-
-
-        mDatabase.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                for(DataSnapshot dataSnapshot1: dataSnapshot.getChildren()){
-                    Question question = dataSnapshot1.getValue(Question.class);
-                    String questionn = question.getQ().toString();
-                    String questionHistory = question.getQh().toString();
-                    String choice1 = question.getA().toString();
-                    String choice2 = question.getB().toString();
-                    String choice3 = question.getC().toString();
-                    String choice4 = question.getD().toString();
-                    String answer = question.getAn().toString();
-                    Log.d(TAG, "question xx"+questionn);
-                    Log.d(TAG, "question History: xx "+questionHistory);
-                    Log.d(TAG, "Choice1: xx "+choice1);
-                    Log.d(TAG, "Choice2: xx "+choice2);
-                    Log.d(TAG, "Choice3: xx "+choice3);
-                    Log.d(TAG, "Choice4: xx "+choice4);
-                    Log.d(TAG, "answer: xx "+answer);
-                }
-            }
-
-            @Override
-            public void onCancelled(DatabaseError databaseError) {
-
-            }
-        });
+    }
+    private void hide() {
+        // Hide UI first
+        ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            actionBar.hide();
+        }
     }
 }
