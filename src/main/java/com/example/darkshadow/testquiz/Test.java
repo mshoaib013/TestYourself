@@ -3,6 +3,7 @@ package com.example.darkshadow.testquiz;
 import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.CountDownTimer;
+import android.os.Handler;
 import android.speech.tts.TextToSpeech;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
@@ -248,7 +249,6 @@ public class Test extends AppCompatActivity {
 
             }
         });
-
         //question declear
 //        que[0][0]="Whats Your name??";
 //        que[0][1]="Shoab";
@@ -327,7 +327,14 @@ public class Test extends AppCompatActivity {
         scoreview.setText(String.valueOf(score)+"/10");
 
         //1st time question set
-        setQuestion();
+        final Handler handler = new Handler();
+        handler.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                setQuestion();
+            }
+        }, 3000);
+
 
 
         //nextbutton setup new question,choice & reset color of datafield

@@ -7,19 +7,19 @@
     format="10"
     ir-eligibility="COMPATIBLE"
     plugin-version="3.1.4"
-    timestamp="1536620924331"
+    timestamp="1536622958481"
     token="-5906926874853845989"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="286" />
+        duration="357" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="20" />
+        duration="73" />
     <task
         name="verifier"
         duration="2" />
@@ -30,34 +30,10 @@
 
     <build
         build-mode="FULL"
-        timestamp="1536616252161"
+        timestamp="1536621604221"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
@@ -66,7 +42,31 @@
             location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
             location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
@@ -75,7 +75,7 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1536620924331"
+        timestamp="1536622958481"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
