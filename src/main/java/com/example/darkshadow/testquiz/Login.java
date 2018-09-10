@@ -1,6 +1,7 @@
 package com.example.darkshadow.testquiz;
 
 import android.content.Intent;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -22,6 +23,11 @@ public class Login extends AppCompatActivity {
         final DatabaseReference mDatabase;
         mDatabase = FirebaseDatabase.getInstance().getReference().child("user");
         super.onCreate(savedInstanceState);
+        hide();
+        ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            actionBar.hide();
+        }
         setContentView(R.layout.activity_login);
         final EditText username = (EditText)findViewById(R.id.loginUsername);
         final EditText password = (EditText)findViewById(R.id.loginPassword);
@@ -47,10 +53,10 @@ public class Login extends AppCompatActivity {
                             Log.d(TAG, "onDataChange: xxp "+p);
                             Log.d(TAG, "onDataChange: xxuf "+user1.getUsername());
                             Log.d(TAG, "onDataChange: xxpf "+user1.getPassword());
-                            if (uf.equals(u)){
+                            if (uf.equals(u) && pf.equals(p)){
                                 Log.d(TAG, "onDataChange: xxuf "+user1.getUsername());
                                 Log.d(TAG, "onDataChange: xxpf "+user1.getPassword());
-                                final Intent intent = new Intent(Login.this, Signup.class);
+                                final Intent intent = new Intent(Login.this, TopicChoose.class);
                                 startActivity(intent);
                             }
 
@@ -89,4 +95,12 @@ public class Login extends AppCompatActivity {
             }
         });
     }
+    private void hide() {
+        // Hide UI first
+        ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            actionBar.hide();
+        }
+    }
+
 }

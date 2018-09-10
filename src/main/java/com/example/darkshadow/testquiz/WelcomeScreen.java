@@ -1,6 +1,7 @@
 package com.example.darkshadow.testquiz;
 
 import android.content.Intent;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -13,7 +14,7 @@ public class WelcomeScreen extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome_screen);
-
+        hide();
         Button login = (Button)findViewById(R.id.welcomeLoginButton);
         login.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -22,5 +23,12 @@ public class WelcomeScreen extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+    }
+    private void hide() {
+        // Hide UI first
+        ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            actionBar.hide();
+        }
     }
 }

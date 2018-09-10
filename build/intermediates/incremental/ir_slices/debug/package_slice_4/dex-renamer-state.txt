@@ -1,4 +1,4 @@
-#Mon Sep 10 20:45:22 BDT 2018
+#Tue Sep 11 00:48:21 BDT 2018
 base.0=/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/transforms/dexMerger/debug/4
 path.0=classes.dex
 renamed.0=classes.dex
