@@ -344,6 +344,10 @@
         "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/drawable_rectangle_shape_red.xml.flat",
+        "source": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/res/drawable/rectangle_shape_red.xml"
+    },
+    {
         "merged": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
         "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
@@ -558,6 +562,10 @@
     {
         "merged": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
         "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/drawable_frame.xml.flat",
+        "source": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/res/drawable/frame.xml"
     },
     {
         "merged": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -850,6 +858,10 @@
     {
         "merged": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/layout_notification_template_custom_big.xml.flat",
         "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/drawable_rectangle_shape_green.xml.flat",
+        "source": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/res/drawable/rectangle_shape_green.xml"
     },
     {
         "merged": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",

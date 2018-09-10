@@ -35,7 +35,6 @@ public class Test extends AppCompatActivity {
 
 
     //All Imageview
-    private ImageView speakQuestionButton;
     private ImageView scoreStar;
 
 
@@ -101,27 +100,21 @@ public class Test extends AppCompatActivity {
                     if (score==0) {
                         //scoreStar.setVisibility(ImageView.VISIBLE);
                         startextview.setText("Seriouly!! 0 Star!!!");
-                        scoreStar.setImageResource(R.drawable.onestar);
                     }
                     else if(score<3){
                         startextview.setText("Try Harder1");
-                        scoreStar.setImageResource(R.drawable.onestar);
                     }
                     else if(score<5){
                         startextview.setText("Try More and More");
-                        scoreStar.setImageResource(R.drawable.twostar);
                     }
                     else if(score<7){
                         startextview.setText("Try Your Best");
-                        scoreStar.setImageResource(R.drawable.threestar);
                     }
                     else if(score<9){
                         startextview.setText("Keep trying");
-                        scoreStar.setImageResource(R.drawable.fourstar);
                     }
                     else{
                         startextview.setText("You are Genios Man!!!");
-                        scoreStar.setImageResource(R.drawable.fivestar);
                     }
 
 
@@ -160,9 +153,7 @@ public class Test extends AppCompatActivity {
 
 
 
-    private void ConvertTextToSpeech() {
-        tts.speak(runningQuestion+"", TextToSpeech.QUEUE_FLUSH, null);
-    }
+
 
 
 
@@ -171,12 +162,7 @@ public class Test extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
 
-        //Sound wrong right
-        final MediaPlayer wrong = MediaPlayer.create(Test.this, R.raw.wrong);
-        final MediaPlayer correct = MediaPlayer.create(Test.this, R.raw.correct);
 
-        //Speak out Question
-        speakQuestionButton=(ImageView) findViewById(R.id.audioButton);
 
         //next Button
         button=(Button) findViewById(R.id.next);
@@ -201,7 +187,6 @@ public class Test extends AppCompatActivity {
         over=(TextView) findViewById(R.id.overMessage);
         timeleft=(TextView) findViewById(R.id.timeleft);
         over.setVisibility(TextView.INVISIBLE);
-        scoreStar=(ImageView) findViewById(R.id.scoreStar);
         finalScoreTextview=(TextView) findViewById(R.id.finalScoreTextview);
         nextQuestionSetButton=(Button) findViewById(R.id.goForNextSet);
 
@@ -287,32 +272,6 @@ public class Test extends AppCompatActivity {
         //1st time question set
         setQuestion();
 
-        //Speak Question button
-        speakQuestionButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                tts=new TextToSpeech(Test.this, new TextToSpeech.OnInitListener() {
-
-                    @Override
-                    public void onInit(int status) {
-                        // TODO Auto-generated method stub
-                        if(status == TextToSpeech.SUCCESS){
-                            int result=tts.setLanguage(Locale.US);
-                            if(result==TextToSpeech.LANG_MISSING_DATA ||
-                                    result==TextToSpeech.LANG_NOT_SUPPORTED){
-                                Log.e("error", "This Language is not supported");
-                            }
-                            else{
-                                ConvertTextToSpeech();
-                            }
-                        }
-                        else
-                            Log.e("error", "Initilization Failed!");
-                    }
-                });
-            }
-        });
-
 
         //nextbutton setup new question,choice & reset color of datafield
         button.setOnClickListener(new View.OnClickListener() {
@@ -344,27 +303,21 @@ public class Test extends AppCompatActivity {
                 if (score==0) {
                     //scoreStar.setVisibility(ImageView.VISIBLE);
                     startextview.setText("Seriouly!! 0 Star!!!");
-                    scoreStar.setImageResource(R.drawable.onestar);
                 }
                 else if(score<3){
                     startextview.setText("Try Harder1");
-                    scoreStar.setImageResource(R.drawable.onestar);
                 }
                 else if(score<5){
                     startextview.setText("Try More and More");
-                    scoreStar.setImageResource(R.drawable.twostar);
                 }
                 else if(score<7){
                     startextview.setText("Try Your Best");
-                    scoreStar.setImageResource(R.drawable.threestar);
                 }
                 else if(score<9){
                     startextview.setText("Keep trying");
-                    scoreStar.setImageResource(R.drawable.fourstar);
                 }
                 else{
                     startextview.setText("You are Genios Man!!!");
-                    scoreStar.setImageResource(R.drawable.fivestar);
                 }
             }
         });
@@ -385,7 +338,6 @@ public class Test extends AppCompatActivity {
                     questionNo++;
                     score++;
                     scoreview.setText(String.valueOf(score)+"/10");
-                    correct.start();
                 }
                 else {
                     //bg.setBackgroundColor(Color.RED);
@@ -397,7 +349,6 @@ public class Test extends AppCompatActivity {
                     else
                         c4.setBackgroundResource(R.drawable.rectangle_shape_green);
                     questionNo++;
-                    wrong.start();
                 }
 
             }
@@ -415,7 +366,6 @@ public class Test extends AppCompatActivity {
                 else if ((que[questionNo][5]).equals(String.valueOf(2))) {
                     //bg.setBackgroundColor(Color.GREEN);
                     c2.setBackgroundResource(R.drawable.rectangle_shape_green);
-                    correct.start();
                     questionNo++;
                     score++;
                     scoreview.setText(String.valueOf(score)+"/10");
@@ -430,7 +380,6 @@ public class Test extends AppCompatActivity {
                     else
                         c4.setBackgroundResource(R.drawable.rectangle_shape_green);
                     questionNo++;
-                    wrong.start();
                 }
 
             }
@@ -449,7 +398,6 @@ public class Test extends AppCompatActivity {
                     //bg.setBackgroundColor(Color.GREEN);
                     c3.setBackgroundResource(R.drawable.rectangle_shape_green);
                     questionNo++;
-                    correct.start();
                     score++;
                     scoreview.setText(String.valueOf(score)+"/10");
                 }
@@ -463,7 +411,6 @@ public class Test extends AppCompatActivity {
                     else
                         c4.setBackgroundResource(R.drawable.rectangle_shape_green);
                     questionNo++;
-                    wrong.start();
                 }
 
             }
@@ -482,7 +429,6 @@ public class Test extends AppCompatActivity {
                     //bg.setBackgroundColor(Color.GREEN);
                     c4.setBackgroundResource(R.drawable.rectangle_shape_green);
                     questionNo++;
-                    correct.start();
                     score++;
                     scoreview.setText(String.valueOf(score)+"/10");
                 }
@@ -496,7 +442,6 @@ public class Test extends AppCompatActivity {
                     else
                         c1.setBackgroundResource(R.drawable.rectangle_shape_green);
                     questionNo++;
-                    wrong.start();
                 }
 
             }

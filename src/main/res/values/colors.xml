@@ -6,4 +6,8 @@
     <color name="white">#FFFFFF</color>
     <color name="offwhite">#fffafa</color>
     <color name="bg">#31978B</color>
+    <color name="topNavigationBar">#4a61e1</color>
+    <color name="qcol"> #3caf84 </color>
+    <color name="ccol"> #e3a020 </color>
+    <color name="offWhite"> #f5f3ef </color>
 </resources>
