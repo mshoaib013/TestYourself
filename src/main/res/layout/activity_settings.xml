@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Settings"
+    android:background="@color/offwhite"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/profileProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@color/white"
+        android:text="Profile"
+        android:textAlignment="center"
+        android:textSize="25dp"/>
+
+    <TextView
+        android:id="@+id/profileMakedQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@color/white"
+        android:text="Maked Question"
+        android:textAlignment="center"
+        android:textSize="25dp"/>
+
+    <TextView
+        android:id="@+id/profileAccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@color/white"
+        android:text="Account"
+        android:textAlignment="center"
+        android:textSize="25dp"/>
+    <TextView
+        android:id="@+id/profilePrivacy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:text="Privacy"
+        android:textAlignment="center"
+        android:textSize="25dp"/>
+    <TextView
+        android:id="@+id/profileNotifications"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:text="Notifications"
+        android:textAlignment="center"
+        android:textSize="25dp"/>
+
+    <TextView
+        android:id="@+id/profileTellFriend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:background="@color/white"
+        android:text="Tell a Friend"
+        android:textAlignment="center"
+        android:textSize="25dp"/>
+    <TextView
+        android:id="@+id/profileHelpAndFeedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:text="Help And Feedback"
+        android:textAlignment="center"
+        android:textSize="25dp"/>
+
+
+</LinearLayout>

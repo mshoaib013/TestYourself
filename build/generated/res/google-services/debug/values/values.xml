@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">453174461548-l5jb7auq88v79io0qjvjsf9g38pgs8qu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://testquiz-a96bd.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">453174461548</string>
+    <string name="google_api_key" translatable="false">AIzaSyC5EkkLFW8bwLb8j7hYzDtoGqCEv1MmjfU</string>
+    <string name="google_app_id" translatable="false">1:453174461548:android:2c4f6aa28f1186de</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC5EkkLFW8bwLb8j7hYzDtoGqCEv1MmjfU</string>
+    <string name="google_storage_bucket" translatable="false">testquiz-a96bd.appspot.com</string>
+    <string name="project_id" translatable="false">testquiz-a96bd</string>
+</resources>
