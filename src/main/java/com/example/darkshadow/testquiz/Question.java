@@ -7,6 +7,10 @@ d = choice4;
 q = question;
 an = answer;
 qh = question history;
+c = choice;
+s = subject;
+tn = test number;
+q1 = question1;
 */
 
 
