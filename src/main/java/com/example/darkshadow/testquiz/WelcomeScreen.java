@@ -23,7 +23,7 @@ public class WelcomeScreen extends AppCompatActivity {
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                final Intent intent = new Intent(WelcomeScreen.this, Signup.class);
+                final Intent intent = new Intent(WelcomeScreen.this, Login.class);
                 startActivity(intent);
             }
         });

@@ -5,24 +5,24 @@
     build-mode="COLD"
     density="560dpi"
     format="10"
-    ir-eligibility="FIELD_ADDED"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.1.4"
-    timestamp="1536640834100"
+    timestamp="1536641873118"
     token="-5906926874853845989"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="195" />
+        duration="176" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="127" />
+        duration="106" />
     <task
         name="verifier"
-        duration="3" />
+        duration="11" />
 
     <artifact
         location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
@@ -75,8 +75,17 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="FIELD_ADDED"
-        timestamp="1536640834100"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1536641500110"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1536641873118"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
