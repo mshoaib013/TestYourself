@@ -72,62 +72,6 @@
             ]
         },
         {
-            "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/res/values-es/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "218",
-                        "endOffsets": "501"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1893",
-                        "endColumns": "218",
-                        "endOffsets": "2107"
-                    }
-                },
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/values-es/values-es.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,222,335,443,528,629,757,842,924,1006,1113,1213,1312,1420,1527,1634,1793,1893",
-                        "endColumns": "116,112,107,84,100,127,84,81,81,106,99,98,107,106,106,158,99,81",
-                        "endOffsets": "217,330,438,523,624,752,837,919,1001,1108,1208,1307,1415,1522,1629,1788,1888,1970"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,222,335,443,528,629,757,842,924,1006,1113,1213,1312,1420,1527,1634,1793,2112",
-                        "endColumns": "116,112,107,84,100,127,84,81,81,106,99,98,107,106,106,158,99,81",
-                        "endOffsets": "217,330,438,523,624,752,837,919,1001,1108,1208,1307,1415,1522,1629,1788,1888,2189"
-                    }
-                },
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/values-es/values-es.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "21",
-                        "startColumns": "4",
-                        "startOffsets": "2194",
-                        "endColumns": "100",
-                        "endOffsets": "2290"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat",
             "map": [
                 {
@@ -184,10 +128,44 @@
             ]
         },
         {
-            "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat",
+            "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
             "map": [
                 {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/values-da/values-da.xml",
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/res/values-es/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "218",
+                        "endOffsets": "501"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1893",
+                        "endColumns": "218",
+                        "endOffsets": "2107"
+                    }
+                },
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,222,335,443,528,629,757,842,924,1006,1113,1213,1312,1420,1527,1634,1793,1893",
+                        "endColumns": "116,112,107,84,100,127,84,81,81,106,99,98,107,106,106,158,99,81",
+                        "endOffsets": "217,330,438,523,624,752,837,919,1001,1108,1208,1307,1415,1522,1629,1788,1888,1970"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,222,335,443,528,629,757,842,924,1006,1113,1213,1312,1420,1527,1634,1793,2112",
+                        "endColumns": "116,112,107,84,100,127,84,81,81,106,99,98,107,106,106,158,99,81",
+                        "endOffsets": "217,330,438,523,624,752,837,919,1001,1108,1208,1307,1415,1522,1629,1788,1888,2189"
+                    }
+                },
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/values-es/values-es.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -198,43 +176,9 @@
                     "to": {
                         "startLines": "21",
                         "startColumns": "4",
-                        "startOffsets": "2093",
+                        "startOffsets": "2194",
                         "endColumns": "100",
-                        "endOffsets": "2189"
-                    }
-                },
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/res/values-da/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "185",
-                        "endOffsets": "468"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1828",
-                        "endColumns": "185",
-                        "endOffsets": "2009"
-                    }
-                },
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/values-da/values-da.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,307,419,502,602,715,792,869,948,1057,1165,1261,1375,1477,1578,1731,1828",
-                        "endColumns": "102,98,111,82,99,112,76,76,78,108,107,95,113,101,100,152,96,78",
-                        "endOffsets": "203,302,414,497,597,710,787,864,943,1052,1160,1256,1370,1472,1573,1726,1823,1902"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,307,419,502,602,715,792,869,948,1057,1165,1261,1375,1477,1578,1731,2014",
-                        "endColumns": "102,98,111,82,99,112,76,76,78,108,107,95,113,101,100,152,96,78",
-                        "endOffsets": "203,302,414,497,597,710,787,864,943,1052,1160,1256,1370,1472,1573,1726,1823,2088"
+                        "endOffsets": "2290"
                     }
                 }
             ]
@@ -291,6 +235,62 @@
                         "startOffsets": "105,225,328,444,530,638,756,835,913,996,1102,1208,1306,1414,1519,1624,1793,2098",
                         "endColumns": "119,102,115,85,107,117,78,77,82,105,105,97,107,104,104,168,99,80",
                         "endOffsets": "220,323,439,525,633,751,830,908,991,1097,1203,1301,1409,1514,1619,1788,1888,2174"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2093",
+                        "endColumns": "100",
+                        "endOffsets": "2189"
+                    }
+                },
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/res/values-da/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "185",
+                        "endOffsets": "468"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1828",
+                        "endColumns": "185",
+                        "endOffsets": "2009"
+                    }
+                },
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,307,419,502,602,715,792,869,948,1057,1165,1261,1375,1477,1578,1731,1828",
+                        "endColumns": "102,98,111,82,99,112,76,76,78,108,107,95,113,101,100,152,96,78",
+                        "endOffsets": "203,302,414,497,597,710,787,864,943,1052,1160,1256,1370,1472,1573,1726,1823,1902"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,307,419,502,602,715,792,869,948,1057,1165,1261,1375,1477,1578,1731,2014",
+                        "endColumns": "102,98,111,82,99,112,76,76,78,108,107,95,113,101,100,152,96,78",
+                        "endOffsets": "203,302,414,497,597,710,787,864,943,1052,1160,1256,1370,1472,1573,1726,1823,2088"
                     }
                 }
             ]
@@ -610,10 +610,44 @@
             ]
         },
         {
-            "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat",
             "map": [
                 {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/values-zh-rTW/values-zh-rTW.xml",
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/res/values-ar/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "188",
+                        "endOffsets": "471"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1837",
+                        "endColumns": "188",
+                        "endOffsets": "2021"
+                    }
+                },
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,222,326,435,517,618,732,811,890,969,1074,1175,1271,1379,1482,1585,1740,1837",
+                        "endColumns": "116,103,108,81,100,113,78,78,78,104,100,95,107,102,102,154,96,80",
+                        "endOffsets": "217,321,430,512,613,727,806,885,964,1069,1170,1266,1374,1477,1580,1735,1832,1913"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,222,326,435,517,618,732,811,890,969,1074,1175,1271,1379,1482,1585,1740,2026",
+                        "endColumns": "116,103,108,81,100,113,78,78,78,104,100,95,107,102,102,154,96,80",
+                        "endOffsets": "217,321,430,512,613,727,806,885,964,1069,1170,1266,1374,1477,1580,1735,1832,2102"
+                    }
+                },
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/values-ar/values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -624,43 +658,9 @@
                     "to": {
                         "startLines": "21",
                         "startColumns": "4",
-                        "startOffsets": "1973",
+                        "startOffsets": "2107",
                         "endColumns": "100",
-                        "endOffsets": "2069"
-                    }
-                },
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/values-zh-rTW/values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1489,1639,1733",
-                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,99,149,93,77",
-                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1484,1634,1728,1806"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1489,1639,1895",
-                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,99,149,93,77",
-                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1484,1634,1728,1968"
-                    }
-                },
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/res/values-zh-rTW/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "287",
-                        "endColumns": "161",
-                        "endOffsets": "448"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1733",
-                        "endColumns": "161",
-                        "endOffsets": "1890"
+                        "endOffsets": "2203"
                     }
                 }
             ]
@@ -722,44 +722,10 @@
             ]
         },
         {
-            "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat",
+            "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
             "map": [
                 {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/res/values-ar/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "188",
-                        "endOffsets": "471"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1837",
-                        "endColumns": "188",
-                        "endOffsets": "2021"
-                    }
-                },
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/values-ar/values-ar.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,222,326,435,517,618,732,811,890,969,1074,1175,1271,1379,1482,1585,1740,1837",
-                        "endColumns": "116,103,108,81,100,113,78,78,78,104,100,95,107,102,102,154,96,80",
-                        "endOffsets": "217,321,430,512,613,727,806,885,964,1069,1170,1266,1374,1477,1580,1735,1832,1913"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,222,326,435,517,618,732,811,890,969,1074,1175,1271,1379,1482,1585,1740,2026",
-                        "endColumns": "116,103,108,81,100,113,78,78,78,104,100,95,107,102,102,154,96,80",
-                        "endOffsets": "217,321,430,512,613,727,806,885,964,1069,1170,1266,1374,1477,1580,1735,1832,2102"
-                    }
-                },
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/values-ar/values-ar.xml",
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -770,9 +736,43 @@
                     "to": {
                         "startLines": "21",
                         "startColumns": "4",
-                        "startOffsets": "2107",
+                        "startOffsets": "1973",
                         "endColumns": "100",
-                        "endOffsets": "2203"
+                        "endOffsets": "2069"
+                    }
+                },
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1489,1639,1733",
+                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,99,149,93,77",
+                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1484,1634,1728,1806"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1489,1639,1895",
+                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,99,149,93,77",
+                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1484,1634,1728,1968"
+                    }
+                },
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/res/values-zh-rTW/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "287",
+                        "endColumns": "161",
+                        "endOffsets": "448"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1733",
+                        "endColumns": "161",
+                        "endOffsets": "1890"
                     }
                 }
             ]
@@ -1345,62 +1345,6 @@
             ]
         },
         {
-            "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/values-et/values-et.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,222,329,440,526,628,745,825,903,986,1097,1202,1301,1411,1512,1615,1781,1883",
-                        "endColumns": "116,106,110,85,101,116,79,77,82,110,104,98,109,100,102,165,101,81",
-                        "endOffsets": "217,324,435,521,623,740,820,898,981,1092,1197,1296,1406,1507,1610,1776,1878,1960"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,222,329,440,526,628,745,825,903,986,1097,1202,1301,1411,1512,1615,1781,2082",
-                        "endColumns": "116,106,110,85,101,116,79,77,82,110,104,98,109,100,102,165,101,81",
-                        "endOffsets": "217,324,435,521,623,740,820,898,981,1092,1197,1296,1406,1507,1610,1776,1878,2159"
-                    }
-                },
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/values-et/values-et.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "21",
-                        "startColumns": "4",
-                        "startOffsets": "2164",
-                        "endColumns": "100",
-                        "endOffsets": "2260"
-                    }
-                },
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/res/values-et/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "198",
-                        "endOffsets": "481"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1883",
-                        "endColumns": "198",
-                        "endOffsets": "2077"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat",
             "map": [
                 {
@@ -1452,6 +1396,62 @@
                         "startOffsets": "1878",
                         "endColumns": "210",
                         "endOffsets": "2084"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,222,329,440,526,628,745,825,903,986,1097,1202,1301,1411,1512,1615,1781,1883",
+                        "endColumns": "116,106,110,85,101,116,79,77,82,110,104,98,109,100,102,165,101,81",
+                        "endOffsets": "217,324,435,521,623,740,820,898,981,1092,1197,1296,1406,1507,1610,1776,1878,1960"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,222,329,440,526,628,745,825,903,986,1097,1202,1301,1411,1512,1615,1781,2082",
+                        "endColumns": "116,106,110,85,101,116,79,77,82,110,104,98,109,100,102,165,101,81",
+                        "endOffsets": "217,324,435,521,623,740,820,898,981,1092,1197,1296,1406,1507,1610,1776,1878,2159"
+                    }
+                },
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2164",
+                        "endColumns": "100",
+                        "endOffsets": "2260"
+                    }
+                },
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/res/values-et/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "198",
+                        "endOffsets": "481"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1883",
+                        "endColumns": "198",
+                        "endOffsets": "2077"
                     }
                 }
             ]
@@ -2032,62 +2032,6 @@
             ]
         },
         {
-            "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/res/values-gu/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "205",
-                        "endOffsets": "488"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1857",
-                        "endColumns": "205",
-                        "endOffsets": "2058"
-                    }
-                },
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/values-gu/values-gu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,318,425,512,613,736,813,891,971,1077,1179,1276,1385,1484,1594,1754,1857",
-                        "endColumns": "108,103,106,86,100,122,76,77,79,105,101,96,108,98,109,159,102,79",
-                        "endOffsets": "209,313,420,507,608,731,808,886,966,1072,1174,1271,1380,1479,1589,1749,1852,1932"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,318,425,512,613,736,813,891,971,1077,1179,1276,1385,1484,1594,1754,2063",
-                        "endColumns": "108,103,106,86,100,122,76,77,79,105,101,96,108,98,109,159,102,79",
-                        "endOffsets": "209,313,420,507,608,731,808,886,966,1072,1174,1271,1380,1479,1589,1749,1852,2138"
-                    }
-                },
-                {
-                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/values-gu/values-gu.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "21",
-                        "startColumns": "4",
-                        "startOffsets": "2143",
-                        "endColumns": "100",
-                        "endOffsets": "2239"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
             "map": [
                 {
@@ -2139,6 +2083,62 @@
                         "startOffsets": "105,213,308,422,508,608,721,797,873,953,1056,1155,1251,1355,1453,1554,1707,1993",
                         "endColumns": "107,94,113,85,99,112,75,75,79,102,98,95,103,97,100,152,96,78",
                         "endOffsets": "208,303,417,503,603,716,792,868,948,1051,1150,1246,1350,1448,1549,1702,1799,2067"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/res/values-gu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "205",
+                        "endOffsets": "488"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1857",
+                        "endColumns": "205",
+                        "endOffsets": "2058"
+                    }
+                },
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,318,425,512,613,736,813,891,971,1077,1179,1276,1385,1484,1594,1754,1857",
+                        "endColumns": "108,103,106,86,100,122,76,77,79,105,101,96,108,98,109,159,102,79",
+                        "endOffsets": "209,313,420,507,608,731,808,886,966,1072,1174,1271,1380,1479,1589,1749,1852,1932"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,318,425,512,613,736,813,891,971,1077,1179,1276,1385,1484,1594,1754,2063",
+                        "endColumns": "108,103,106,86,100,122,76,77,79,105,101,96,108,98,109,159,102,79",
+                        "endOffsets": "209,313,420,507,608,731,808,886,966,1072,1174,1271,1380,1479,1589,1749,1852,2138"
+                    }
+                },
+                {
+                    "source": "/home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2143",
+                        "endColumns": "100",
+                        "endOffsets": "2239"
                     }
                 }
             ]

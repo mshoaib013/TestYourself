@@ -346,7 +346,7 @@ public class Test extends AppCompatActivity {
                 c2.setBackgroundColor(Color.WHITE);
                 c3.setBackgroundColor(Color.WHITE);
                 c4.setBackgroundColor(Color.WHITE);*/
-                if(questionNo>4)
+                if(questionNo>9)
                 {
                     bg.setVisibility(LinearLayout.INVISIBLE);
                     //scoreview.setVisibility(TextView.INVISIBLE);
