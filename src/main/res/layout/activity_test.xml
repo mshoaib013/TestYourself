@@ -20,7 +20,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
             android:orientation="horizontal"
-            android:background="@color/topNavigationBar"
+            android:background="@color/offWhite"
             android:paddingTop="20dp"
             android:paddingBottom="20dp"
             android:weightSum="5">
@@ -187,16 +187,9 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:orientation="vertical">
+
                             <TextView
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:text="Thanks for Your Support"
-                                android:textSize="25dp"
-                                android:background="@color/white"
-                                android:textAlignment="center"
-                                android:textColor="@color/colorPrimaryDark"
-                                />
-                            <TextView
+                                android:visibility="gone"
                                 android:id="@+id/startextview"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -217,7 +210,7 @@
                             android:layout_marginLeft="8dp"
                             android:layout_marginRight="8dp"
                             android:layout_marginTop="30dp"
-                            android:background="@drawable/frame"
+                            android:background="@color/offWhite"
                             android:text="Final Score"
                             android:textAlignment="center"
                             android:textColor="@color/qcol"
@@ -232,7 +225,7 @@
                             android:layout_marginLeft="8dp"
                             android:layout_marginRight="8dp"
                             android:layout_marginTop="30dp"
-                            android:background="@drawable/frame"
+                            android:background="@color/offWhite"
                             android:text="Time Left"
                             android:textAlignment="center"
                             android:textColor="@color/qcol"
@@ -246,9 +239,9 @@
                             android:layout_gravity="center"
                             android:layout_marginTop="20dp"
                             android:background="@drawable/frame"
-                            android:text="More Quiz"
+                            android:text="Home"
                             android:textColor="@color/colorPrimaryDark"
-                            android:textSize="28dp" />
+                            android:textSize="18dp" />
 
                     </LinearLayout>
                 </android.support.constraint.ConstraintLayout>

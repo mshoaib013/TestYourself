@@ -8,7 +8,11 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+
 public class WelcomeScreen extends AppCompatActivity {
+    private FirebaseAuth mAuth;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,7 +23,7 @@ public class WelcomeScreen extends AppCompatActivity {
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                final Intent intent = new Intent(WelcomeScreen.this, Test.class);
+                final Intent intent = new Intent(WelcomeScreen.this, Signup.class);
                 startActivity(intent);
             }
         });

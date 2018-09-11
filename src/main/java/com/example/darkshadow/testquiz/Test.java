@@ -249,78 +249,6 @@ public class Test extends AppCompatActivity {
 
             }
         });
-        //question declear
-//        que[0][0]="Whats Your name??";
-//        que[0][1]="Shoab";
-//        que[0][2]="Mehedi";
-//        que[0][3]="WTF!!!!";
-//        que[0][4]="I";
-//        que[0][5]="1";
-//
-//        que[1][0]="Your NSU CGPA??";
-//        que[1][1]="4.00";
-//        que[1][2]="3.00";
-//        que[1][3]="Less than 2";
-//        que[1][4]="Between 2 & 3";
-//        que[1][5]="4";
-//
-//        que[2][0]="Fav category";
-//        que[2][1]="w";
-//        que[2][2]="e";
-//        que[2][3]="r";
-//        que[2][4]="t";
-//        que[2][5]="3";
-//
-//        que[3][0]="worst teacher of ECE";
-//        que[3][1]="SaM";
-//        que[3][2]="Mle";
-//        que[3][3]="SvA";
-//        que[3][4]="All";
-//        que[3][5]="4";
-//
-//        que[4][0]="Greatest musicians of BD";
-//        que[4][1]="Mahafujur Rahman";
-//        que[4][2]="Tahasan";
-//        que[4][3]="Ali G STAR";
-//        que[4][4]="None of them";
-//        que[4][5]="2";
-//
-//        que[5][0]="Whats Your name??";
-//        que[5][1]="Shoab";
-//        que[5][2]="Mehedi";
-//        que[5][3]="WTF!!!!";
-//        que[5][4]="I";
-//        que[5][5]="1";
-//
-//        que[6][0]="Your NSU CGPA??";
-//        que[6][1]="4.00";
-//        que[6][2]="3.00";
-//        que[6][3]="Less than 2";
-//        que[6][4]="Between 2 & 3";
-//        que[6][5]="4";
-//
-//        que[7][0]="Fav  category";
-//        que[7][1]="ab";
-//        que[7][2]="a";
-//        que[7][3]="s";
-//        que[7][4]="d";
-//        que[7][5]="3";
-//
-//        que[8][0]="worst teacher of ECE";
-//        que[8][1]="SaM";
-//        que[8][2]="Mle";
-//        que[8][3]="SvA";
-//        que[8][4]="All";
-//        que[8][5]="4";
-//
-//        que[9][0]="Greatest musicians of BD";
-//        que[9][1]="Mahafujur Rahman";
-//        que[9][2]="Tahasan";
-//        que[9][3]="Ali G STAR";
-//        que[9][4]="None of them";
-//        que[9][5]="2";
-
-
 
 
         //init score to 0 on open
@@ -521,27 +449,29 @@ public class Test extends AppCompatActivity {
         nextQuestionSetButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                clicked=0;
-                questionNo=0;
-                score=0;
-                quizCompleted=0;
-                timerResetNeed=0;
-                timeTaken=0;
-                bg2.setVisibility(View.INVISIBLE);
-                bg.setVisibility(View.VISIBLE);
-                scoreview.setText("0/10");
-                timeCountdown.setVisibility(View.VISIBLE);
-                over.setVisibility(View.INVISIBLE);
-                setQuestion();
-                q.setVisibility(View.VISIBLE);
-                timeout.cancel();
-                timeOutRed.cancel();
-                timeHandler();
-                timeCountdown.setBackgroundResource(R.drawable.frame);
-                c1.setBackgroundResource(R.drawable.frame);
-                c2.setBackgroundResource(R.drawable.frame);
-                c3.setBackgroundResource(R.drawable.frame);
-                c4.setBackgroundResource(R.drawable.frame);
+                final Intent intent = new Intent(Test.this, Home.class);
+                startActivity(intent);
+//                clicked=0;
+//                questionNo=0;
+//                score=0;
+//                quizCompleted=0;
+//                timerResetNeed=0;
+//                timeTaken=0;
+//                bg2.setVisibility(View.INVISIBLE);
+//                bg.setVisibility(View.VISIBLE);
+//                scoreview.setText("0/10");
+//                timeCountdown.setVisibility(View.VISIBLE);
+//                over.setVisibility(View.INVISIBLE);
+//                setQuestion();
+//                q.setVisibility(View.VISIBLE);
+//                timeout.cancel();
+//                timeOutRed.cancel();
+//                timeHandler();
+//                timeCountdown.setBackgroundResource(R.drawable.frame);
+//                c1.setBackgroundResource(R.drawable.frame);
+//                c2.setBackgroundResource(R.drawable.frame);
+//                c3.setBackgroundResource(R.drawable.frame);
+//                c4.setBackgroundResource(R.drawable.frame);
 
             }
         });

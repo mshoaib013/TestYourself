@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Sep 11 05:49:57 BDT 2018
+#Tue Sep 11 09:57:04 BDT 2018
 1.base=/home/darkshadow/AndroidStudioProjects/TestQuiz/app/build/intermediates/transforms/dexMerger/debug/14
 2.path=classes.dex
 0.baseType=DIRECTORY
