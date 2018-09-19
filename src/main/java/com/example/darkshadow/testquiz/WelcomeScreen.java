@@ -18,12 +18,25 @@ public class WelcomeScreen extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome_screen);
+        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+        if (user != null){
+            final Intent intent = new Intent(WelcomeScreen.this, Profile.class);
+            startActivity(intent);
+        }
         hide();
         Button login = (Button)findViewById(R.id.welcomeLoginButton);
+        Button signup = (Button)findViewById(R.id.welcomeSignupButton);
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 final Intent intent = new Intent(WelcomeScreen.this, Login.class);
+                startActivity(intent);
+            }
+        });
+        signup.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                final Intent intent = new Intent(WelcomeScreen.this, Signup.class);
                 startActivity(intent);
             }
         });

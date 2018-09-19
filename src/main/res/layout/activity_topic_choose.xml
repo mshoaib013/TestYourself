@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".TopicChoose"
     android:orientation="vertical"
-    android:background="@color/colorPrimary">
+    android:background="@drawable/wcbg">
 <TextView
     android:layout_marginTop="50dp"
     android:layout_width="match_parent"

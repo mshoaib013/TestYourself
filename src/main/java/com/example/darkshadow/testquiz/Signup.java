@@ -2,6 +2,7 @@ package com.example.darkshadow.testquiz;
 
 import android.content.Intent;
 import android.support.annotation.NonNull;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -19,6 +20,13 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
 public class Signup extends AppCompatActivity {
+    private void hide() {
+        // Hide UI first
+        ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            actionBar.hide();
+        }
+    }
     String TAG = "tag";
     public void createAccount(final String email, final String password){
         mAuth.createUserWithEmailAndPassword(email, password)
@@ -29,8 +37,6 @@ public class Signup extends AppCompatActivity {
                             // Sign in success, update UI with the signed-in user's information
                             Log.d(TAG, "createUserWithEmail:success");
                             FirebaseUser user = mAuth.getCurrentUser();
-                            final Intent intent = new Intent(Signup.this, Home.class);
-                            startActivity(intent);
                             //updateUI(user);
                             FirebaseDatabase database = FirebaseDatabase.getInstance();
                             DatabaseReference myRef = database.getReference("user").child("1").child("Email");
@@ -38,6 +44,10 @@ public class Signup extends AppCompatActivity {
 
                             DatabaseReference pass = database.getReference("user").child("1").child("pass");
                             pass.setValue(password);
+
+                            //go to topic choose after signup
+                            final Intent intent = new Intent(Signup.this, TopicChoose.class);
+                            startActivity(intent);
                         } else {
                             // If sign in fails, display a message to the user.
                             Log.w(TAG, "createUserWithEmail:failure", task.getException());
@@ -56,6 +66,8 @@ public class Signup extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup);
+
+        hide();
 
         mAuth = FirebaseAuth.getInstance();
         final EditText usernamee = (EditText)findViewById(R.id.signupUsername);

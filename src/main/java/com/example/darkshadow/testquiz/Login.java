@@ -36,7 +36,8 @@ public class Login extends AppCompatActivity {
                             Log.d("tag", "signInWithEmail:success");
                             FirebaseUser user = mAuth.getCurrentUser();
 
-                            Intent intent=new Intent(Login.this,Home.class);
+
+                            Intent intent=new Intent(Login.this,TopicChoose.class);
                             startActivity(intent);
                             //updateUI(user);
                         } else {
@@ -54,16 +55,18 @@ public class Login extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //database reference
         final DatabaseReference mDatabase;
         mDatabase = FirebaseDatabase.getInstance().getReference().child("user");
         super.onCreate(savedInstanceState);
         mAuth = FirebaseAuth.getInstance();
+
+        //hide actionbar
         hide();
-        ActionBar actionBar = getSupportActionBar();
-        if (actionBar != null) {
-            actionBar.hide();
-        }
+
+
         setContentView(R.layout.activity_login);
+        //button edittext reference
         final EditText username = (EditText)findViewById(R.id.loginUsername);
         final EditText password = (EditText)findViewById(R.id.loginPassword);
         final Button login = (Button)findViewById(R.id.loginLoginButton);

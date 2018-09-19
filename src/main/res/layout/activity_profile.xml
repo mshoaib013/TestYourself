@@ -7,64 +7,152 @@
     tools:context=".Profile"
     android:background="@color/offwhite"
     android:orientation="vertical">
+//this is circle imageview portion
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#11b0ff">
 
-    <ImageView
-        android:layout_width="125dp"
-        android:layout_height="123dp"
-        android:layout_marginTop="25dp"
-        android:layout_gravity="center"
-        android:background="@drawable/pripic" />
+        <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/profile_image"
+            android:layout_width="91dp"
+            android:layout_height="96dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:src="@drawable/pro"
+            app:civ_border_color="#FF000000"
+            app:civ_border_width="2dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/edit_profile_image"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/baseline_camera_alt_black_18dp"
+            app:civ_border_color="#FF000000"
+            app:civ_circle_background_color="@color/white"
+            app:civ_border_width="2dp"
+            app:layout_constraintBottom_toBottomOf="@+id/profile_image"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.629"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.866" />
+
+        <!--<ImageButton-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginBottom="8dp"-->
+            <!--android:layout_marginEnd="8dp"-->
+            <!--android:layout_marginStart="8dp"-->
+            <!--android:layout_marginTop="8dp"-->
+            <!--android:background="@drawable/googleg_standard_color_18"-->
+            <!--app:layout_constraintBottom_toBottomOf="parent"-->
+            <!--app:layout_constraintEnd_toEndOf="parent"-->
+            <!--app:layout_constraintHorizontal_bias="0.339"-->
+            <!--app:layout_constraintStart_toStartOf="@+id/profile_image"-->
+            <!--app:layout_constraintTop_toTopOf="parent"-->
+            <!--app:layout_constraintVertical_bias="0.87" />-->
+    </android.support.constraint.ConstraintLayout>
 
     <TextView
-        android:id="@+id/profileProfile"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:background="@color/white"
         android:text="Username"
         android:textSize="25dp"/>
+    <EditText
+        android:id="@+id/profileUsername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Username"
+        android:shadowColor="@color/colorAccent"/>
 
     <TextView
-        android:id="@+id/profileAccount"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:background="@color/white"
         android:text="Bio"
         android:textSize="25dp"/>
-    <TextView
-        android:id="@+id/profilePrivacy"
+    <EditText
+        android:id="@+id/profileBio"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/white"
-        android:text="This is bio of user"
-        android:textSize="18dp"/>
+        android:hint="Bio of User"
+        android:shadowColor="@color/colorAccent"/>
+
     <TextView
-        android:id="@+id/profileNotifications"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="1dp"
         android:background="@color/white"
         android:text="Email or Phone"
         android:textSize="25dp"/>
-
-    <TextView
-        android:id="@+id/profileTellFriend"
+    <EditText
+        android:id="@+id/profilePhoneOrEmail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
-        android:background="@color/white"
-        android:text="Score"
-        android:textSize="25dp"/>
-    <TextView
-        android:id="@+id/profileHelpAndFeedback"
+        android:hint="Email or Phone"
+        android:shadowColor="@color/colorAccent"/>
+
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="1dp"
-        android:background="@color/white"
-        android:text="Rank"
-        android:textSize="25dp"/>
+        android:orientation="horizontal"
+        android:weightSum="2">
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:background="@color/white"
+            android:text="Score"
+            android:textSize="25dp"/>
 
+        <TextView
+            android:layout_weight="1"
+            android:id="@+id/profileScore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:background="@color/white"
+            android:text="Score"
+            android:textSize="25dp"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:background="@color/white"
+            android:text="Rank"
+            android:textSize="25dp"
+            android:layout_weight="1"/>
+        <TextView
+            android:id="@+id/profileRank"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:background="@color/white"
+            android:text="Rank"
+            android:textSize="25dp"/>
+
+    </LinearLayout>
 
 
 

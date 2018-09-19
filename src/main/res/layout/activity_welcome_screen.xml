@@ -39,6 +39,7 @@
         android:text="TestYourself"/>
 
 
+
     <Button
         android:id="@+id/welcomeLoginButton"
         android:layout_width="177dp"
@@ -47,6 +48,8 @@
         android:layout_marginTop="80dp"
         android:background="@drawable/loginbg"
         android:gravity="center" />
+
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -57,5 +60,14 @@
         android:textSize="17dp"
         android:gravity="center_horizontal"
         android:text="Don't have an account? Create one its free and always will be"/>
+
+    <Button
+        android:id="@+id/welcomeSignupButton"
+        android:layout_width="108dp"
+        android:layout_height="29dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/signupbtn"
+        android:gravity="center" />
 
 </LinearLayout>
