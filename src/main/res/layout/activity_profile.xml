@@ -14,7 +14,7 @@
         android:background="#11b0ff">
 
         <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
-            android:id="@+id/profile_image"
+            android:id="@+id/profileImage"
             android:layout_width="91dp"
             android:layout_height="96dp"
             android:layout_marginEnd="8dp"
@@ -26,7 +26,7 @@
             app:layout_constraintStart_toStartOf="parent" />
 
         <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
-            android:id="@+id/edit_profile_image"
+            android:id="@+id/profileUploadNew"
             android:layout_width="20dp"
             android:layout_height="20dp"
             android:layout_marginBottom="8dp"
@@ -37,7 +37,7 @@
             app:civ_border_color="#FF000000"
             app:civ_circle_background_color="@color/white"
             app:civ_border_width="2dp"
-            app:layout_constraintBottom_toBottomOf="@+id/profile_image"
+            app:layout_constraintBottom_toBottomOf="@+id/profileImage"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.629"
             app:layout_constraintStart_toStartOf="parent"
@@ -65,14 +65,15 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:background="@color/white"
-        android:text="Username"
+        android:text="Name"
         android:textSize="25dp"/>
     <EditText
-        android:id="@+id/profileUsername"
+        android:id="@+id/profileFullName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Username"
-        android:shadowColor="@color/colorAccent"/>
+        android:hint="Full Name"
+        android:shadowColor="@color/colorAccent"
+        />
 
     <TextView
         android:layout_width="match_parent"
@@ -154,6 +155,11 @@
 
     </LinearLayout>
 
+    <ImageButton
+        android:id="@+id/profileSubmitBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/signupbtn"/>
 
 
 </LinearLayout>

@@ -4,42 +4,46 @@ ADDED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidM
 INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml:2:1-29:12
-MERGED from [com.google.firebase:firebase-core:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/8ee2a96d1966586cacd6b46727817a07/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/b0b1252efbd2b4c2ada1a121ce4e5265/AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5d9c169fadc87b65e6f451e2d18ab5bb/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.firebase:firebase-database:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.0.aar/2621276d5e40acd30edcb49f4e5d2a7d/AndroidManifest.xml:2:1-4:12
-MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/f6348457bf563da8074ea6893eed17a6/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/260e076f85bcedb0f910a6aff010efcc/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/1e85f039b76d65c36524ee02769985a4/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/9431dc9b11166327d66b67a0828338e9/AndroidManifest.xml:2:1-8:12
 MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/391f5981174268b65d99ce8f6ad144be/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:17:1-54:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3dc5d1f289f1c9e8773403c1055163b8/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/490db89f159bdb8261b7c4a2edc1aaf8/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.0.aar/31cbd100eaaae3af15b4a3d5e17b5e16/AndroidManifest.xml:2:1-4:12
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:16:1-29:12
-MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:16:1-47:12
-MERGED from [com.google.firebase:firebase-common:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0c9e8342b62713fbd775490b75b5714c/AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/02ef38700ccfcbf02af367b8a71e0a8b/AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/4b3d4fff0cb18cff90c4f0d756b744e1/AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/f6ade8d8d2632164d84b3d0ed53b3175/AndroidManifest.xml:16:1-23:12
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/954af590d421485b71a03e20eaaee37f/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8370792900f5fb5dc84d0c0a5dba7ffd/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c534c7d0a1aa7d95905354228c543376/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/40744338ea11c15ba39eb9085b149d01/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/f645ef5dd317161ef9cd3a4b09a420be/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:25.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/968af8a5a6799a157ddc7b0624675dfe/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-media-compat:25.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/efc2034a3aff35cd453a24a6aedc405d/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-fragment:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/23268e4e0a77cb7cc5228268213c2aca/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/81bb289c1099b75b2752ba70dc11db7c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/74b186a629a86493b025409838ec6130/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-database-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/0db21330829fab05e9d74da8de670593/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/0727e5f36ffd5ba29e9dc3afccfdc56a/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/502dd01380819b0ba35641adbdbc9bed/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/f9e9e153948e801ec416473abf01790c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/fb31137e957c7eec04dd7b6c742bc568/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/d8dd435fe804712a18133eb8197ba692/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/1ed818d61fe6a23a83a68a9c0d2cf7e6/AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9127d63194ed4032a1815d64bb6ec8f0/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cf4656764a251aad68de83c35ddde3f3/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/21e30560f84734b7f2b04fbcdf2344e2/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/ffae91cc6a5b5ed5bd798e0cab54aee1/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/a5dd898ac84870e4b47257817d68428a/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/c3d282253e0db926c994ac39f85ffaa2/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/ccc0ff82ea9b36ba24a89136580df956/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/76119a4ff85f617a1dc764954a2e3a74/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/487239f7d4f6056cbdfc94f19af4d2e4/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/55b82c006f9419ede0edce62d71d42e4/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/b3aca26e9ee1af262c65047e9009a0ee/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/1a796ac6624c30fe04fe51ca5764cf80/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/28f6dc6daa931866ecddf9dc94574813/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/558c08783a6ed1ff0e09484623b1ca3a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/45489e9ef70d2c9581c8fded594649d3/AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6bd0e3e03cc9f72cd4cfa3ac4ea1bf07/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3f432deca1f89a968cbdd0031d2b1a92/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/e18d13158cf7444b0b4216620c436cca/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/9d00892b4f183493d71fea43f783587b/AndroidManifest.xml:2:1-6:12
 INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml:2:1-29:12
@@ -59,52 +63,56 @@ INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/Andro
 		ADDED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml:5:5-27:19
-MERGED from [com.google.firebase:firebase-core:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/8ee2a96d1966586cacd6b46727817a07/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-core:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/8ee2a96d1966586cacd6b46727817a07/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/b0b1252efbd2b4c2ada1a121ce4e5265/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/b0b1252efbd2b4c2ada1a121ce4e5265/AndroidManifest.xml:5:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5d9c169fadc87b65e6f451e2d18ab5bb/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5d9c169fadc87b65e6f451e2d18ab5bb/AndroidManifest.xml:9:5-20
-MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/f6348457bf563da8074ea6893eed17a6/AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/f6348457bf563da8074ea6893eed17a6/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/1e85f039b76d65c36524ee02769985a4/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/1e85f039b76d65c36524ee02769985a4/AndroidManifest.xml:22:5-30:19
 MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/391f5981174268b65d99ce8f6ad144be/AndroidManifest.xml:9:5-20
 MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/391f5981174268b65d99ce8f6ad144be/AndroidManifest.xml:9:5-20
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:24:5-34:19
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:24:5-34:19
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:29:5-46:19
-MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:29:5-46:19
-MERGED from [com.google.firebase:firebase-common:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0c9e8342b62713fbd775490b75b5714c/AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.firebase:firebase-common:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0c9e8342b62713fbd775490b75b5714c/AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/02ef38700ccfcbf02af367b8a71e0a8b/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/02ef38700ccfcbf02af367b8a71e0a8b/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/4b3d4fff0cb18cff90c4f0d756b744e1/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/4b3d4fff0cb18cff90c4f0d756b744e1/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/f6ade8d8d2632164d84b3d0ed53b3175/AndroidManifest.xml:19:5-21:19
-MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/f6ade8d8d2632164d84b3d0ed53b3175/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8370792900f5fb5dc84d0c0a5dba7ffd/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8370792900f5fb5dc84d0c0a5dba7ffd/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c534c7d0a1aa7d95905354228c543376/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c534c7d0a1aa7d95905354228c543376/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/40744338ea11c15ba39eb9085b149d01/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/40744338ea11c15ba39eb9085b149d01/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-v4:25.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/968af8a5a6799a157ddc7b0624675dfe/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:25.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/968af8a5a6799a157ddc7b0624675dfe/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:25.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/efc2034a3aff35cd453a24a6aedc405d/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:25.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/efc2034a3aff35cd453a24a6aedc405d/AndroidManifest.xml:25:5-20
-MERGED from [com.google.firebase:firebase-database-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/0db21330829fab05e9d74da8de670593/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-database-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/0db21330829fab05e9d74da8de670593/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/0727e5f36ffd5ba29e9dc3afccfdc56a/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/0727e5f36ffd5ba29e9dc3afccfdc56a/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/502dd01380819b0ba35641adbdbc9bed/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/502dd01380819b0ba35641adbdbc9bed/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/21e30560f84734b7f2b04fbcdf2344e2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/21e30560f84734b7f2b04fbcdf2344e2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/ffae91cc6a5b5ed5bd798e0cab54aee1/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/ffae91cc6a5b5ed5bd798e0cab54aee1/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/a5dd898ac84870e4b47257817d68428a/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/a5dd898ac84870e4b47257817d68428a/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/c3d282253e0db926c994ac39f85ffaa2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/c3d282253e0db926c994ac39f85ffaa2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/ccc0ff82ea9b36ba24a89136580df956/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/ccc0ff82ea9b36ba24a89136580df956/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/76119a4ff85f617a1dc764954a2e3a74/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/76119a4ff85f617a1dc764954a2e3a74/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/e18d13158cf7444b0b4216620c436cca/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/e18d13158cf7444b0b4216620c436cca/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/f9e9e153948e801ec416473abf01790c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/f9e9e153948e801ec416473abf01790c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/fb31137e957c7eec04dd7b6c742bc568/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/fb31137e957c7eec04dd7b6c742bc568/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/d8dd435fe804712a18133eb8197ba692/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/d8dd435fe804712a18133eb8197ba692/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/1ed818d61fe6a23a83a68a9c0d2cf7e6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/1ed818d61fe6a23a83a68a9c0d2cf7e6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/487239f7d4f6056cbdfc94f19af4d2e4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/487239f7d4f6056cbdfc94f19af4d2e4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/55b82c006f9419ede0edce62d71d42e4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/55b82c006f9419ede0edce62d71d42e4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/b3aca26e9ee1af262c65047e9009a0ee/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/b3aca26e9ee1af262c65047e9009a0ee/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/1a796ac6624c30fe04fe51ca5764cf80/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/1a796ac6624c30fe04fe51ca5764cf80/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/28f6dc6daa931866ecddf9dc94574813/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/28f6dc6daa931866ecddf9dc94574813/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/558c08783a6ed1ff0e09484623b1ca3a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/558c08783a6ed1ff0e09484623b1ca3a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/45489e9ef70d2c9581c8fded594649d3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/45489e9ef70d2c9581c8fded594649d3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/9d00892b4f183493d71fea43f783587b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/9d00892b4f183493d71fea43f783587b/AndroidManifest.xml:5:5-20
 	android:supportsRtl
 		ADDED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
@@ -167,38 +175,42 @@ uses-sdk
 INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml
 INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml
-MERGED from [com.google.firebase:firebase-core:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/8ee2a96d1966586cacd6b46727817a07/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-core:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/8ee2a96d1966586cacd6b46727817a07/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/b0b1252efbd2b4c2ada1a121ce4e5265/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/b0b1252efbd2b4c2ada1a121ce4e5265/AndroidManifest.xml:4:5-43
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/faf0284366deca668e174d6e8c16898a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5d9c169fadc87b65e6f451e2d18ab5bb/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5d9c169fadc87b65e6f451e2d18ab5bb/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-database:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.0.aar/2621276d5e40acd30edcb49f4e5d2a7d/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.0.aar/2621276d5e40acd30edcb49f4e5d2a7d/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/f6348457bf563da8074ea6893eed17a6/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/f6348457bf563da8074ea6893eed17a6/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/260e076f85bcedb0f910a6aff010efcc/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/260e076f85bcedb0f910a6aff010efcc/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/1e85f039b76d65c36524ee02769985a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/1e85f039b76d65c36524ee02769985a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/9431dc9b11166327d66b67a0828338e9/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/9431dc9b11166327d66b67a0828338e9/AndroidManifest.xml:6:5-44
 MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/391f5981174268b65d99ce8f6ad144be/AndroidManifest.xml:5:5-7:41
 MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/391f5981174268b65d99ce8f6ad144be/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3dc5d1f289f1c9e8773403c1055163b8/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3dc5d1f289f1c9e8773403c1055163b8/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/490db89f159bdb8261b7c4a2edc1aaf8/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/490db89f159bdb8261b7c4a2edc1aaf8/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.0.aar/31cbd100eaaae3af15b4a3d5e17b5e16/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.0.aar/31cbd100eaaae3af15b4a3d5e17b5e16/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-common:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0c9e8342b62713fbd775490b75b5714c/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-common:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0c9e8342b62713fbd775490b75b5714c/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/02ef38700ccfcbf02af367b8a71e0a8b/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/02ef38700ccfcbf02af367b8a71e0a8b/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/4b3d4fff0cb18cff90c4f0d756b744e1/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/4b3d4fff0cb18cff90c4f0d756b744e1/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/f6ade8d8d2632164d84b3d0ed53b3175/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/f6ade8d8d2632164d84b3d0ed53b3175/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/954af590d421485b71a03e20eaaee37f/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/954af590d421485b71a03e20eaaee37f/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8370792900f5fb5dc84d0c0a5dba7ffd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8370792900f5fb5dc84d0c0a5dba7ffd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c534c7d0a1aa7d95905354228c543376/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c534c7d0a1aa7d95905354228c543376/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/40744338ea11c15ba39eb9085b149d01/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/40744338ea11c15ba39eb9085b149d01/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/f645ef5dd317161ef9cd3a4b09a420be/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/f645ef5dd317161ef9cd3a4b09a420be/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:25.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/968af8a5a6799a157ddc7b0624675dfe/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:25.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/968af8a5a6799a157ddc7b0624675dfe/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:25.2.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/efc2034a3aff35cd453a24a6aedc405d/AndroidManifest.xml:21:5-23:63
@@ -211,34 +223,38 @@ MERGED from [com.android.support:support-core-utils:27.1.1] /home/darkshadow/.gr
 MERGED from [com.android.support:support-core-utils:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/74b186a629a86493b025409838ec6130/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/42ff72a82905dede874c0e4b177e728e/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-database-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/0db21330829fab05e9d74da8de670593/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-database-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/0db21330829fab05e9d74da8de670593/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/0727e5f36ffd5ba29e9dc3afccfdc56a/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/0727e5f36ffd5ba29e9dc3afccfdc56a/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/502dd01380819b0ba35641adbdbc9bed/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/502dd01380819b0ba35641adbdbc9bed/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/f9e9e153948e801ec416473abf01790c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/f9e9e153948e801ec416473abf01790c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/fb31137e957c7eec04dd7b6c742bc568/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/fb31137e957c7eec04dd7b6c742bc568/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/d8dd435fe804712a18133eb8197ba692/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/d8dd435fe804712a18133eb8197ba692/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/1ed818d61fe6a23a83a68a9c0d2cf7e6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/1ed818d61fe6a23a83a68a9c0d2cf7e6/AndroidManifest.xml:4:5-43
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9127d63194ed4032a1815d64bb6ec8f0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9127d63194ed4032a1815d64bb6ec8f0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cf4656764a251aad68de83c35ddde3f3/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cf4656764a251aad68de83c35ddde3f3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/21e30560f84734b7f2b04fbcdf2344e2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/21e30560f84734b7f2b04fbcdf2344e2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/ffae91cc6a5b5ed5bd798e0cab54aee1/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/ffae91cc6a5b5ed5bd798e0cab54aee1/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/a5dd898ac84870e4b47257817d68428a/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/a5dd898ac84870e4b47257817d68428a/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/c3d282253e0db926c994ac39f85ffaa2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/c3d282253e0db926c994ac39f85ffaa2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/ccc0ff82ea9b36ba24a89136580df956/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/ccc0ff82ea9b36ba24a89136580df956/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/76119a4ff85f617a1dc764954a2e3a74/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/76119a4ff85f617a1dc764954a2e3a74/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/487239f7d4f6056cbdfc94f19af4d2e4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/487239f7d4f6056cbdfc94f19af4d2e4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/55b82c006f9419ede0edce62d71d42e4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/55b82c006f9419ede0edce62d71d42e4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/b3aca26e9ee1af262c65047e9009a0ee/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/b3aca26e9ee1af262c65047e9009a0ee/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/1a796ac6624c30fe04fe51ca5764cf80/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/1a796ac6624c30fe04fe51ca5764cf80/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/28f6dc6daa931866ecddf9dc94574813/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/28f6dc6daa931866ecddf9dc94574813/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/558c08783a6ed1ff0e09484623b1ca3a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/558c08783a6ed1ff0e09484623b1ca3a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/45489e9ef70d2c9581c8fded594649d3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/45489e9ef70d2c9581c8fded594649d3/AndroidManifest.xml:4:5-43
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6bd0e3e03cc9f72cd4cfa3ac4ea1bf07/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6bd0e3e03cc9f72cd4cfa3ac4ea1bf07/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3f432deca1f89a968cbdd0031d2b1a92/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3f432deca1f89a968cbdd0031d2b1a92/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/e18d13158cf7444b0b4216620c436cca/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/e18d13158cf7444b0b4216620c436cca/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/9d00892b4f183493d71fea43f783587b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/9d00892b4f183493d71fea43f783587b/AndroidManifest.xml:4:5-43
 INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml
 INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
@@ -251,159 +267,173 @@ INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/Andro
 		INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml
 		ADDED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml
 		INJECTED from /home/darkshadow/AndroidStudioProjects/TestQuiz/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:20:5-66
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:20:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:19:5-78
-MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:19:5-78
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:21:22-76
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:21:5-67
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:22:22-65
-receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:25:7-26:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:25:90-112
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/1e85f039b76d65c36524ee02769985a4/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/1e85f039b76d65c36524ee02769985a4/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/1e85f039b76d65c36524ee02769985a4/AndroidManifest.xml:27:13-48
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:25:113-137
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:25:17-89
-receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:27:7-31:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:27:162-184
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:27:185-208
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/1e85f039b76d65c36524ee02769985a4/AndroidManifest.xml:26:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:27:105-161
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:27:17-104
-intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:28:11-30:27
-action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:29:15-76
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:29:23-74
-service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:27:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/e6c35d0e5f2095a855ef46e1d8ee22ed/AndroidManifest.xml:27:7-137
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:32:88-110
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:32:111-135
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:32:16-87
-service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:33:7-197
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:33:148-170
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:33:171-195
-	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:33:91-147
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/c912c2fdd0b81e8bd87676885b6d7f0b/AndroidManifest.xml:33:16-90
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:23:5-81
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:23:22-79
-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:25:5-109
-	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:25:72-107
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:25:17-71
-permission#com.example.darkshadow.testquiz.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:25:5-109
-	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:25:72-107
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:25:17-71
-uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:27:5-78
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:27:22-76
-uses-permission#com.example.darkshadow.testquiz.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:27:5-78
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:27:22-76
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:31:9-36:20
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:31:85-108
-	android:permission
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:31:109-169
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:31:19-84
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:32:13-35:29
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.darkshadow.testquiz
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:32:13-35:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:33:17-80
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:33:25-78
-category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:34:17-60
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:34:27-58
-category#com.example.darkshadow.testquiz
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:34:17-60
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:34:27-58
-service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:40:9-44:19
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:40:83-106
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:40:18-82
-intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:41:13-43:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:41:28-51
-action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:42:17-79
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/54b955641740de2622e356aca7a7aa27/AndroidManifest.xml:42:25-77
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0c9e8342b62713fbd775490b75b5714c/AndroidManifest.xml:6:9-194
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0c9e8342b62713fbd775490b75b5714c/AndroidManifest.xml:6:19-78
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0c9e8342b62713fbd775490b75b5714c/AndroidManifest.xml:6:144-168
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0c9e8342b62713fbd775490b75b5714c/AndroidManifest.xml:6:169-192
-	android:name
-		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0c9e8342b62713fbd775490b75b5714c/AndroidManifest.xml:6:79-143
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/02ef38700ccfcbf02af367b8a71e0a8b/AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/02ef38700ccfcbf02af367b8a71e0a8b/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/1e85f039b76d65c36524ee02769985a4/AndroidManifest.xml:28:13-102
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/02ef38700ccfcbf02af367b8a71e0a8b/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/1e85f039b76d65c36524ee02769985a4/AndroidManifest.xml:29:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/02ef38700ccfcbf02af367b8a71e0a8b/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/1e85f039b76d65c36524ee02769985a4/AndroidManifest.xml:24:13-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/54e9bb3158f0ceb332625ecdca7678a1/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/254bd8de02153a30cf03a8328b55dbaf/AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:29:9-63
+permission#com.example.darkshadow.testquiz.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:32:22-76
+uses-permission#com.example.darkshadow.testquiz.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.darkshadow.testquiz
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:42:27-58
+category#com.example.darkshadow.testquiz
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/7abd085436bba9c147491f5bfe76b9bd/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8370792900f5fb5dc84d0c0a5dba7ffd/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8370792900f5fb5dc84d0c0a5dba7ffd/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8370792900f5fb5dc84d0c0a5dba7ffd/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8370792900f5fb5dc84d0c0a5dba7ffd/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8370792900f5fb5dc84d0c0a5dba7ffd/AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c534c7d0a1aa7d95905354228c543376/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c534c7d0a1aa7d95905354228c543376/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c534c7d0a1aa7d95905354228c543376/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c534c7d0a1aa7d95905354228c543376/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/f6ade8d8d2632164d84b3d0ed53b3175/AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/f6ade8d8d2632164d84b3d0ed53b3175/AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/f6ade8d8d2632164d84b3d0ed53b3175/AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/darkshadow/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/c141fcc17b731e6c55eb413c9d89e58f/AndroidManifest.xml:24:13-58

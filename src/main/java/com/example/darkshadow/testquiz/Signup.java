@@ -37,13 +37,22 @@ public class Signup extends AppCompatActivity {
                             // Sign in success, update UI with the signed-in user's information
                             Log.d(TAG, "createUserWithEmail:success");
                             FirebaseUser user = mAuth.getCurrentUser();
-                            //updateUI(user);
-                            FirebaseDatabase database = FirebaseDatabase.getInstance();
-                            DatabaseReference myRef = database.getReference("user").child("1").child("Email");
-                            myRef.setValue(email);
 
-                            DatabaseReference pass = database.getReference("user").child("1").child("pass");
+                            FirebaseDatabase database = FirebaseDatabase.getInstance();
+                            DatabaseReference uID = database.getReference("U").child(user.getUid()).child("I");
+                            uID.setValue(user.getUid());
+                            DatabaseReference myRef = database.getReference("U").child(user.getUid()).child("E");
+                            myRef.setValue(email);
+                            DatabaseReference pass = database.getReference("U").child(user.getUid()).child("P");
                             pass.setValue(password);
+                            DatabaseReference bio = database.getReference("U").child(user.getUid()).child("B");
+                            bio.setValue("Bio");
+                            DatabaseReference name = database.getReference("U").child(user.getUid()).child("N");
+                            name.setValue("Name");
+                            DatabaseReference rank = database.getReference("U").child(user.getUid()).child("R");
+                            rank.setValue(0);
+                            DatabaseReference score = database.getReference("U").child(user.getUid()).child("S");
+                            score.setValue(0);
 
                             //go to topic choose after signup
                             final Intent intent = new Intent(Signup.this, TopicChoose.class);
